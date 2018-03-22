@@ -1,0 +1,11 @@
+org.sonatype.nexus.repository.p2.internal.ui.UiPluginDescriptorImpl
+org.sonatype.nexus.repository.p2.internal.util.TempBlobConverter
+org.sonatype.nexus.repository.p2.internal.util.P2PathUtils
+org.sonatype.nexus.repository.p2.internal.security.P2SecurityFacet
+org.sonatype.nexus.repository.p2.internal.metadata.ArtifactsXmlAbsoluteUrlRemover
+org.sonatype.nexus.repository.p2.internal.P2Format
+org.sonatype.nexus.repository.p2.internal.util.JarParser
+org.sonatype.nexus.repository.p2.internal.security.P2FormatSecurityContributor
+org.sonatype.nexus.repository.p2.internal.util.P2DataAccess
+org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyFacetImpl
+org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyRecipe

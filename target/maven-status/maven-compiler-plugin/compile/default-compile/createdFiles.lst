@@ -1,0 +1,16 @@
+org\sonatype\nexus\repository\p2\internal\metadata\ArtifactsXmlAbsoluteUrlRemover.class
+org\sonatype\nexus\repository\p2\internal\util\P2DataAccess.class
+org\sonatype\nexus\repository\p2\internal\proxy\P2ProxyFacetImpl.class
+org\sonatype\nexus\repository\p2\internal\util\JarParser.class
+org\sonatype\nexus\repository\p2\internal\metadata\P2Attributes.class
+org\sonatype\nexus\repository\p2\internal\proxy\P2ProxyRecipe.class
+org\sonatype\nexus\repository\p2\internal\P2Format.class
+org\sonatype\nexus\repository\p2\internal\security\P2SecurityFacet.class
+org\sonatype\nexus\repository\p2\internal\security\P2FormatSecurityContributor.class
+org\sonatype\nexus\repository\p2\internal\proxy\P2ProxyRecipe$_closure1.class
+org\sonatype\nexus\repository\p2\internal\util\P2PathUtils.class
+org\sonatype\nexus\repository\p2\internal\AssetKind.class
+org\sonatype\nexus\repository\p2\internal\ui\UiPluginDescriptorImpl.class
+org\sonatype\nexus\repository\p2\internal\util\TempBlobConverter.class
+META-INF\sisu\javax.inject.Named
+org\sonatype\nexus\repository\p2\internal\metadata\P2Attributes$Builder.class

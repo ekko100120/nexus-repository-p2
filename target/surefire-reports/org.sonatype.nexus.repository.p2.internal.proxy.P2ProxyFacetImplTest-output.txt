@@ -1,0 +1,13 @@
+09:03:48.755 INFO [main] org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyFacetImplTest - TEST getJarWithPackGz STARTING
+09:03:49.072 INFO [main] org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyFacetImplTest - TEST getJarWithPackGz SUCCEEDED
+09:03:49.074 INFO [main] org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyFacetImplTest - TEST getJarWithPackGz FINISHED
+09:03:49.075 INFO [main] org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyFacetImplTest - TEST getUnknownVersion STARTING
+09:03:49.084 WARN [main] org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyFacetImpl - Unable to get version from JarInputStream due to following exception: in is null
+09:03:49.085 INFO [main] org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyFacetImplTest - TEST getUnknownVersion SUCCEEDED
+09:03:49.085 INFO [main] org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyFacetImplTest - TEST getUnknownVersion FINISHED
+09:03:49.085 INFO [main] org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyFacetImplTest - TEST getVersion STARTING
+09:03:49.150 INFO [main] org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyFacetImplTest - TEST getVersion SUCCEEDED
+09:03:49.151 INFO [main] org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyFacetImplTest - TEST getVersion FINISHED
+09:03:49.151 INFO [main] org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyFacetImplTest - TEST getJarWithJarFile STARTING
+09:03:49.153 INFO [main] org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyFacetImplTest - TEST getJarWithJarFile SUCCEEDED
+09:03:49.153 INFO [main] org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyFacetImplTest - TEST getJarWithJarFile FINISHED

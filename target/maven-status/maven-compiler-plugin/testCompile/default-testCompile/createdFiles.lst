@@ -1,0 +1,8 @@
+org\sonatype\nexus\repository\p2\internal\util\JarParserTest.class
+org\sonatype\nexus\repository\p2\internal\util\P2PathUtilsTest.class
+org\sonatype\nexus\repository\p2\internal\util\TempBlobConverterTest.class
+org\sonatype\nexus\repository\p2\internal\AssetKindTest.class
+org\sonatype\nexus\repository\p2\internal\proxy\P2ProxyFacetImplTest.class
+org\sonatype\nexus\repository\p2\internal\util\P2DataAccessTest.class
+org\sonatype\nexus\repository\p2\internal\P2FormatTest.class
+org\sonatype\nexus\repository\p2\internal\ui\UiPluginDescriptorImplTest.class

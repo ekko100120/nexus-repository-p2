@@ -1,0 +1,6 @@
+09:03:49.759 INFO [main] org.sonatype.nexus.repository.p2.internal.util.TempBlobConverterTest - TEST getIOExceptionFromTempBlob STARTING
+09:03:50.078 INFO [main] org.sonatype.nexus.repository.p2.internal.util.TempBlobConverterTest - TEST getIOExceptionFromTempBlob SUCCEEDED
+09:03:50.078 INFO [main] org.sonatype.nexus.repository.p2.internal.util.TempBlobConverterTest - TEST getIOExceptionFromTempBlob FINISHED
+09:03:50.078 INFO [main] org.sonatype.nexus.repository.p2.internal.util.TempBlobConverterTest - TEST getInputStreamFromPackGzTempBlob STARTING
+09:03:50.121 INFO [main] org.sonatype.nexus.repository.p2.internal.util.TempBlobConverterTest - TEST getInputStreamFromPackGzTempBlob SUCCEEDED
+09:03:50.121 INFO [main] org.sonatype.nexus.repository.p2.internal.util.TempBlobConverterTest - TEST getInputStreamFromPackGzTempBlob FINISHED

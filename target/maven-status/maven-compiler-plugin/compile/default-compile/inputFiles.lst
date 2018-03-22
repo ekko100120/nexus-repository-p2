@@ -1,0 +1,13 @@
+F:\github\nexus-repository-p2\src\main\java\org\sonatype\nexus\repository\p2\internal\util\JarParser.java
+F:\github\nexus-repository-p2\src\main\java\org\sonatype\nexus\repository\p2\internal\util\TempBlobConverter.java
+F:\github\nexus-repository-p2\src\main\java\org\sonatype\nexus\repository\p2\internal\proxy\P2ProxyFacetImpl.java
+F:\github\nexus-repository-p2\src\main\java\org\sonatype\nexus\repository\p2\internal\P2Format.java
+F:\github\nexus-repository-p2\src\main\java\org\sonatype\nexus\repository\p2\internal\metadata\P2Attributes.java
+F:\github\nexus-repository-p2\src\main\java\org\sonatype\nexus\repository\p2\internal\util\P2PathUtils.java
+F:\github\nexus-repository-p2\src\main\java\org\sonatype\nexus\repository\p2\internal\security\P2FormatSecurityContributor.java
+F:\github\nexus-repository-p2\src\main\java\org\sonatype\nexus\repository\p2\internal\util\P2DataAccess.java
+F:\github\nexus-repository-p2\src\main\java\org\sonatype\nexus\repository\p2\internal\ui\UiPluginDescriptorImpl.java
+F:\github\nexus-repository-p2\src\main\java\org\sonatype\nexus\repository\p2\internal\AssetKind.java
+F:\github\nexus-repository-p2\src\main\java\org\sonatype\nexus\repository\p2\internal\security\P2SecurityFacet.java
+F:\github\nexus-repository-p2\src\main\java\org\sonatype\nexus\repository\p2\internal\metadata\ArtifactsXmlAbsoluteUrlRemover.java
+F:\github\nexus-repository-p2\src\main\java\org\sonatype\nexus\repository\p2\internal\proxy\P2ProxyRecipe.groovy

@@ -1,0 +1,15 @@
+09:03:49.177 INFO [main] org.sonatype.nexus.repository.p2.internal.util.JarParserTest - TEST getVersionFromJarInputStream STARTING
+09:03:49.315 INFO [main] org.sonatype.nexus.repository.p2.internal.util.JarParserTest - TEST getVersionFromJarInputStream SUCCEEDED
+09:03:49.315 INFO [main] org.sonatype.nexus.repository.p2.internal.util.JarParserTest - TEST getVersionFromJarInputStream FINISHED
+09:03:49.315 INFO [main] org.sonatype.nexus.repository.p2.internal.util.JarParserTest - TEST getNoneP2FileFromJarInputStream STARTING
+09:03:49.321 WARN [main] org.sonatype.nexus.repository.p2.internal.util.JarParser - Could not get version from Manifest due to following exception: null
+09:03:49.321 INFO [main] org.sonatype.nexus.repository.p2.internal.util.JarParserTest - TEST getNoneP2FileFromJarInputStream SUCCEEDED
+09:03:49.321 INFO [main] org.sonatype.nexus.repository.p2.internal.util.JarParserTest - TEST getNoneP2FileFromJarInputStream FINISHED
+09:03:49.322 INFO [main] org.sonatype.nexus.repository.p2.internal.util.JarParserTest - TEST getExceptionFromJarInputStream STARTING
+09:03:49.348 WARN [main] org.sonatype.nexus.repository.p2.internal.util.JarParser - Could not get version from file due to following exception: null
+09:03:49.348 WARN [main] org.sonatype.nexus.repository.p2.internal.util.JarParser - Could not get version from Manifest due to following exception: null
+09:03:49.348 INFO [main] org.sonatype.nexus.repository.p2.internal.util.JarParserTest - TEST getExceptionFromJarInputStream SUCCEEDED
+09:03:49.348 INFO [main] org.sonatype.nexus.repository.p2.internal.util.JarParserTest - TEST getExceptionFromJarInputStream FINISHED
+09:03:49.349 INFO [main] org.sonatype.nexus.repository.p2.internal.util.JarParserTest - TEST getVersionFromSourceJar STARTING
+09:03:49.484 INFO [main] org.sonatype.nexus.repository.p2.internal.util.JarParserTest - TEST getVersionFromSourceJar SUCCEEDED
+09:03:49.484 INFO [main] org.sonatype.nexus.repository.p2.internal.util.JarParserTest - TEST getVersionFromSourceJar FINISHED

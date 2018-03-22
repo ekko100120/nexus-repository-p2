@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyFacetImplTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.404 s - in org.sonatype.nexus.repository.p2.internal.proxy.P2ProxyFacetImplTest

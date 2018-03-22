@@ -4,7 +4,11 @@
 .settings/
 
 # Maven
-target/
+target/classes/
+target/feature/
+target/maven-status/
+target/surefire-reports/
+target/test-classes/
 *.ser
 *.ec
 .mvn/timing.properties
